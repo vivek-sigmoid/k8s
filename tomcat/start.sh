@@ -1,0 +1,1 @@
+mv ./webapps.dist/* ./webapps
